@@ -1,3 +1,3 @@
-CREATE DATABASE logistics_db;
+CREATE DATABASE IF NOT EXISTS logistics_db;
 USE logistics_db;
 SHOW TABLES;
